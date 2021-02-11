@@ -31,4 +31,8 @@ There is 3 options:
 
 If you currently working with wacom, but want to work with gaomon, close all "drawing" apps and use "1" option, and so on...
 
+How to use it?
+-
+Feel free to create pull requests, discussing and so on
+
 P.S. sorry for my english 🐸
